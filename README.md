@@ -2,4 +2,4 @@
 My first repository on GitHub
 Lorem ipsum
 
-Some changes here..
+Removed the default and added this change 
